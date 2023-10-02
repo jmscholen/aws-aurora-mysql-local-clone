@@ -1,0 +1,13 @@
+org_name: jmscholen
+name: aws-aurora-mysql-local-clone
+friendly_name: AWS Aurora MySQL Clone Local Module
+description: Create an AWS Aurora MYSQL clone within same vpc
+category: datastore
+subcategory: ""
+provider_types:
+    - aws
+platform: mysql
+subplatform: ""
+type: ""
+appCategories: []
+is_public: true
